@@ -170,24 +170,24 @@
                                 <li>
                                     <div class="card">
                                         <a href="book-description.html">
-                                            <img src="images/book/book4.jpg" alt="" class="w-full h-52 object-cover">
-                                            <div class="p-3 truncate">HTML Breaker</div>
+                                            <img src="images/book/book1.png" alt="" class="w-full h-52 object-cover">
+                                            <div class="p-3 truncate">Genie Logiciel II</div>
                                         </a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="card">
                                         <a href="book-description.html">
-                                            <img src="images/book/book5.jpg" alt="" class="w-full h-52 object-cover">
-                                            <div class="p-3 truncate"> CSS Master </div>
+                                            <img src="images/book/book2.png" alt="" class="w-full h-52 object-cover">
+                                            <div class="p-3 truncate"> Gestion de projet </div>
                                         </a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="card">
                                         <a href="book-description.html">
-                                            <img src="images/book/book1.jpg" alt="" class="w-full h-52 object-cover">
-                                            <div class="p-3 truncate"> Vue.js Basics </div>
+                                            <img src="images/book/book3.jpeg" alt="" class="w-full h-52 object-cover">
+                                            <div class="p-3 truncate"> Econometrie </div>
                                         </a>
                                     </div>
                                 </li>
@@ -196,14 +196,6 @@
                                         <a href="book-description.html">
                                             <img src="images/book/book2.jpg" alt="" class="w-full h-52 object-cover">
                                             <div class="p-3 truncate"> HTML5 & CSS3 </div>
-                                        </a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="card">
-                                        <a href="book-description.html">
-                                            <img src="images/book/book3.jpg" alt="" class="w-full h-52 object-cover">
-                                            <div class="p-3 truncate"> Learn CSS </div>
                                         </a>
                                     </div>
                                 </li>
@@ -248,7 +240,7 @@
                                     <li>
                                         <a href="episodes-watch.html">
                                             <div class="w-full md:h-40 h-28 overflow-hidden rounded-lg relative">
-                                                <img src="images/episodes/img-2.jpg" alt="" class="w-full h-full absolute inset-0 object-cover">
+                                                <img src="images/episodes/img-1.jpeg" alt="" class="w-full h-full absolute inset-0 object-cover">
                                                 <span
                                                     class="absolute bottom-2 right-2 px-2 py-1 text-xs font-semibold bg-black bg-opacity-50 text-white rounded">
                                                     12:21</span>
@@ -256,57 +248,45 @@
                                             </div>
                                         </a>
                                         <div class="pt-3">
-                                            <a href="episodes-watch.html" class="font-semibold line-clamp-2">  The PHP Singleton class  </a>
-                                            <p class="text-sm pt-1"> By <a href="#"> Stella Johnson  </a> </p>
+                                            <a href="episodes-watch.html" class="font-semibold line-clamp-2">  Création d'un site e-commerce avec WordPress #Laboratoire Informatique  </a>
+                                            <p class="text-sm pt-1"> Par <a href="#"> Benjamin HYANGANGA  </a> </p>
                                         </div>
                                     </li>
                                     <li>
                                         <a href="episodes-watch.html">
                                             <div class="w-full md:h-40 h-28 overflow-hidden rounded-lg relative">
-                                                <img src="images/episodes/img-4.jpg" alt="" class="w-full h-full absolute inset-0 object-cover">
+                                                <img src="images/episodes/img-2.jpeg" alt="" class="w-full h-full absolute inset-0 object-cover">
                                                 <span class="absolute bottom-2 right-2 px-2 py-1 text-xs font-semibold bg-black bg-opacity-50 text-white rounded">
                                                     12:21</span>
                                                 <img src="http://demo.foxthemes.net/courseplus-v4.3/assets/images/icon-play.svg" class="w-12 h-12 uk-position-center" alt="">
                                             </div>
                                         </a>
                                         <div class="pt-3">
-                                            <a href="episodes-watch.html" class="font-semibold line-clamp-2">  Larafel $ fliepond   </a>
-                                            <p href="episodes-watch.html" class="text-sm pt-1"> By <a href="#"> Jesse Stevens </a> </p>
+                                            <a href="episodes-watch.html" class="font-semibold line-clamp-2">  Un projet de A à Z avec l'architecture micro-services #Genie Logiciel II   </a>
+                                            <p href="episodes-watch.html" class="text-sm pt-1"> Par <a href="#"> Olga Kavira </a> </p>
                                         </div>
                                     </li>
                                     <li>
                                         <a href="episodes-watch.html">
                                             <div class="w-full md:h-40 h-28 overflow-hidden rounded-lg relative">
-                                                <img src="images/episodes/img-1.jpg" alt="" class="w-full h-full absolute inset-0 object-cover">
+                                                <img src="images/episodes/img-4.png" alt="" class="w-full h-full absolute inset-0 object-cover">
                                                 <span class="absolute bottom-2 right-2 px-2 py-1 text-xs font-semibold bg-black bg-opacity-50 text-white rounded">
                                                     12:21</span>
                                                 <img src="http://demo.foxthemes.net/courseplus-v4.3/assets/images/icon-play.svg" class="w-12 h-12 uk-position-center" alt="">
                                             </div>
                                         </a>
                                         <div class="pt-3">
-                                            <a href="episodes-watch.html" class="font-semibold line-clamp-2">  Creating a Laravel Package   </a>
-                                            <p class="text-sm pt-1"> By <a href="#"> John Michael </a> </p>
+                                            <a href="episodes-watch.html" class="font-semibold line-clamp-2">  Comment configurer votre CPanel et proceder à l'herbegement WordPress #Laboratoire Informatique    </a>
+                                            <p class="text-sm pt-1"> Par <a href="#"> Benjamin HYANGANGA </a> </p>
                                         </div>
                                     </li>
-                                    <li>
-                                        <a href="episodes-watch.html">
-                                            <div class="w-full md:h-40 h-28 overflow-hidden rounded-lg relative">
-                                                <img src="images/episodes/img-3.jpg" alt="" class="w-full h-full absolute inset-0 object-cover">
-                                                <span class="absolute bottom-2 right-2 px-2 py-1 text-xs font-semibold bg-black bg-opacity-50 text-white rounded">
-                                                    12:21</span>
-                                                <img src="http://demo.foxthemes.net/courseplus-v4.3/assets/images/icon-play.svg" class="w-12 h-12 uk-position-center" alt="">
-                                            </div>
-                                        </a>
-                                        <div class="pt-3">
-                                            <a href="episodes-watch.html" class="font-semibold line-clamp-2">  Creating sticky in HTML   </a>
-                                            <p class="text-sm pt-1"> By <a href="#"> Monroe Parker </a> </p>
-                                        </div>
-                                    </li> 
                                 </ul>
-                    
-                                <a class="absolute bg-white top-16 flex items-center justify-center p-2 -left-4 rounded-full shadow-md text-xl w-9 z-10 dark:bg-gray-800 dark:text-white" href="#" uk-slider-item="previous">  <ion-icon name="chevron-back-outline"></ion-icon> </a>
-                                <a class="absolute bg-white top-16 flex items-center justify-center p-2 -right-4 rounded-full shadow-md text-xl w-9 z-10 dark:bg-gray-800 dark:text-white" href="#" uk-slider-item="next"> <ion-icon name="chevron-forward-outline"></ion-icon></a>
-                    
+                                <a class="absolute bg-white top-1/4 flex items-center justify-center p-2 -left-4 rounded-full shadow-md text-xl w-9 z-10 dark:bg-gray-800 dark:text-white" href="#" uk-slider-item="previous">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-left"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                                </a>
+                                <a class="absolute bg-white top-1/4 flex items-center justify-center p-2 -right-4 rounded-full shadow-md text-xl w-9 z-10 dark:bg-gray-800 dark:text-white" href="#" uk-slider-item="next">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                                </a>
                             </div>
                     
                         </div>
