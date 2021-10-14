@@ -11,25 +11,15 @@
                 <ul class="uk-slideshow-items rounded">
                     <li>
                         <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
-                            <img src="images/hero-1.jpg" class="object-cover" alt="" uk-cover>
-                        </div>
-                        <div class="container relative md:p-20 md:mt-7 p-5 h-full"> 
-                            <div uk-slideshow-parallax="scale: 1,1,0.8" class="flex flex-col justify-center h-full w-full space-y-3">
-                                <h1 uk-slideshow-parallax="y: 100,0,0" class="lg:text-4xl text-2xl text-white font-semibold"> Learn from the best</h1>
-                                <p uk-slideshow-parallax="y: 150,0,0" class="text-base text-white font-medium pb-4 lg:w-1/2"> Choose from 130,000 online video courses with new additions published every month </p>
-                                <a uk-slideshow-parallax="y: 200,0,50" href="#" class="bg-opacity-90 bg-white py-2.5 rounded-md text-base text-center w-32"> Get Started </a> 
-                            </div>
-                        </div>
-                    </li> 
-                    <li>
-                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
                             <img src="images/hero-2.jpg" class="object-cover" alt="" uk-cover>
                         </div>
                         <div class="container relative md:p-20 md:mt-7 p-5 h-full"> 
                             <div uk-slideshow-parallax="scale: 1,1,0.8" class="flex flex-col justify-center h-full w-full space-y-3">
-                                <h1 uk-slideshow-parallax="y: 100,0,0" class="lg:text-4xl text-2xl text-white font-semibold"> Learn from the best</h1>
-                                <p uk-slideshow-parallax="y: 150,0,0" class="text-base text-white font-medium pb-4 lg:w-1/2"> Choose from 130,000 online video courses with new additions published every month </p>
-                                <a uk-slideshow-parallax="y: 200,0,0" href="#" class="bg-opacity-90 bg-white py-2.5 rounded-md text-base text-center w-32"> Get Started </a> 
+                                <h1 uk-slideshow-parallax="y: 100,0,0" class="lg:text-4xl text-2xl text-white font-semibold">Aux étudiants finaliste 2020-2021</h1>
+                                <p uk-slideshow-parallax="y: 150,0,0" class="text-base text-white font-medium pb-4 lg:w-1/2">
+                                    Concerne: Rappel des défenses de TFC et mémoires 2020-2021...
+                                </p>
+                                <a uk-slideshow-parallax="y: 200,0,0" href="#" class="bg-opacity-90 bg-white py-2.5 rounded-md text-base text-center w-32">Lire plus</a> 
                             </div>
                         </div>
                     </li> 
@@ -64,19 +54,17 @@
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
-                                                        <img src="images/courses/img-1.jpg" alt="" class="">
-                                                        <span class="icon-play"></span>
+                                                        <img src="images/courses/img-1.png" alt="" class="">
                                                     </div>
                                                     <div class="card-body p-4">
-                                                        <div class="font-semibold line-clamp-2"> Learn JavaScript and Express to become a professional JavaScript developer. </div>
+                                                        <div class="font-semibold line-clamp-2"> Langage de programmation C#. </div>
                                                         <div class="flex space-x-2 items-center text-sm pt-3">
-                                                            <div> 13 hours  </div>
+                                                            <div> 20 heures  </div>
                                                             <div> · </div>
-                                                            <div> 32 lectures </div>
+                                                            <div> 20 lectures </div>
                                                         </div>
                                                         <div class="pt-1 flex items-center justify-between">
-                                                            <div class="text-sm font-medium"> John Michael </div>
-                                                            <div class="text-lg font-semibold"> $14.99 </div>
+                                                            <div class="text-sm font-medium"> Claude KIKUATI</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -89,19 +77,17 @@
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
-                                                        <img src="images/courses/img-2.jpg" alt="" class="">
-                                                        <span class="icon-play"></span>
+                                                        <img src="images/courses/img-2.png" alt="" class="">
                                                     </div>
                                                     <div class="card-body p-4">
-                                                        <div class="font-semibold line-clamp-2">Learn Angular Fundamentals From beginning to advance </div>
+                                                    <div class="font-semibold line-clamp-2">Administration réseaux</div>
                                                         <div class="flex space-x-2 items-center text-sm pt-3">
-                                                            <div>  26 hours  </div>
+                                                            <div>  20 houres  </div>
                                                             <div>·</div>
                                                             <div> 26 lectures </div>
                                                         </div>
                                                         <div class="pt-1 flex items-center justify-between">
-                                                            <div class="text-sm font-medium"> Stella Johnson </div>
-                                                            <div class="text-lg font-semibold"> $18.99  </div>
+                                                            <div class="text-sm font-medium"> Emmanuel MATONDO </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -114,19 +100,17 @@
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
-                                                        <img src="images/courses/img-3.jpg" alt="" class="">
-                                                        <span class="icon-play"></span>
+                                                        <img src="images/courses/img-3.png" alt="" class="">
                                                     </div>
                                                     <div class="card-body p-4">
-                                                        <div class="font-semibold line-clamp-2">Responsive Web Design Essentials HTML5 CSS3 Bootstrap </div>
+                                                        <div class="font-semibold line-clamp-2">Securité Informatique</div>
                                                         <div class="flex space-x-2 items-center text-sm pt-3">
-                                                            <div>  18 hours  </div>
+                                                            <div>  18 heures  </div>
                                                             <div>·</div>
                                                             <div> 42 lectures </div>
                                                         </div>
                                                         <div class="pt-1 flex items-center justify-between">
-                                                            <div class="text-sm font-medium"> Monroe Parker </div>
-                                                            <div class="text-lg font-semibold"> $11.99 </div>
+                                                            <div class="text-sm font-medium"> Patrick ONOYA </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -139,19 +123,17 @@
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
-                                                        <img src="images/courses/img-1.jpg" alt="" class="">
-                                                        <span class="icon-play"></span>
+                                                        <img src="images/courses/img-4.png" alt="" class="">
                                                     </div>
                                                     <div class="card-body p-4">
-                                                        <div class="font-semibold line-clamp-2"> Learn JavaScript and Express to become a professional JavaScript developer. </div>
+                                                        <div class="font-semibold line-clamp-2">Système embarqués</div>
                                                         <div class="flex space-x-2 items-center text-sm pt-3">
-                                                            <div> 32 hours  </div>
+                                                            <div> 32 heures  </div>
                                                             <div>·</div>
-                                                            <div>  lec 4 </div>
+                                                            <div> 4 lectures</div>
                                                         </div>
                                                         <div class="pt-1 flex items-center justify-between">
-                                                            <div class="text-sm font-medium"> Jesse Stevens </div>
-                                                            <div class="text-lg font-semibold"> $29.99 </div>
+                                                            <div class="text-sm font-medium">Samy BOFANDO</div>
                                                         </div>
                                                     </div>
                                                 </div>

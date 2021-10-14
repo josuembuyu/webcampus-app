@@ -22,44 +22,7 @@
     
                 <!-- Header search box  -->
                 <div class="header_search"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> 
-                    <input value="" type="text" class="form-control" placeholder=" Quick search for anything.." autocomplete="off">
-                    <div uk-drop="mode: click;offset:10" class="header_search_dropdown">
-                            
-                        <h4 class="search_title"> Recently </h4>
-                        <ul>
-                            <li> 
-                                <a href="#">  
-                                    <img src="images/avatars/avatar-1.jpg" alt="" class="list-avatar">
-                                    <div class="list-name">  Erica Jones </div>
-                                </a> 
-                            </li> 
-                            <li> 
-                                <a href="#">  
-                                    <img src="images/avatars/avatar-2.jpg" alt="" class="list-avatar">
-                                    <div class="list-name">  Coffee  Addicts </div>
-                                </a> 
-                            </li>
-                            <li> 
-                                <a href="#">  
-                                    <img src="images/avatars/avatar-3.jpg" alt="" class="list-avatar">
-                                    <div class="list-name"> Mountain Riders </div>
-                                </a> 
-                            </li>
-                            <li> 
-                                <a href="#">  
-                                    <img src="images/avatars/avatar-4.jpg" alt="" class="list-avatar">
-                                    <div class="list-name"> Property Rent And Sale  </div>
-                                </a> 
-                            </li>
-                            <li> 
-                                <a href="#">  
-                                    <img src="images/avatars/avatar-5.jpg" alt="" class="list-avatar">
-                                    <div class="list-name">  Erica Jones </div>
-                                </a> 
-                            </li>
-                        </ul>
-
-                    </div>
+                    <input value="" type="text" class="form-control" placeholder=" Faites une recherche.." autocomplete="off">
                 </div>
 
                 <div>
