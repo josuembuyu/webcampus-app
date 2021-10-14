@@ -7525,7 +7525,7 @@ header.is_fixed {
   font-size: 15px;
 }
 
-.header_search i {
+.header_search i,.header_search svg {
   position: absolute;
   pointer-events: none;
   top: 50%;

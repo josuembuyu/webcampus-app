@@ -6,12 +6,37 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
+    <meta name="description" content="Webcampus">
+    <!-- icons
+    ================================================== -->
+    <link rel="stylesheet" href="./css/icons.css">
+
+    <!-- CSS
+      ================================================== -->
+    <link rel="stylesheet" href="./css/uikit.css">
+    <link rel="stylesheet" href="./scss/style.css">
+    <link rel="stylesheet" href="./css/tailwind.css">
+
+    <style>
+      input , .bootstrap-select.btn-group button{
+          background-color: #f3f4f6  !important;
+          height: 44px  !important;
+          box-shadow: none  !important; 
+      }
+    </style>
   </head>
   <body>
     <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
     <div id="app"></div>
-    <!-- built files will be auto injected -->
+    
+    <script src="./js/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="./js/uikit.js"></script>
+    <script src="./js/tippy.all.min.js"></script>
+    <script src="./js/simplebar.js"></script>
+    <script src="./js/custom.js"></script>
+    <script src="./js/bootstrap-select.min.js"></script>
+    <script src="./js/ionicons.js"></script>
   </body>
 </html>
