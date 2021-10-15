@@ -273,7 +273,7 @@ export default {
     padding: .6em;
 }
 
-.simplebar-content{
+/* .simplebar-content{
     padding-top: 30px !important;
-}
+} */
 </style>
