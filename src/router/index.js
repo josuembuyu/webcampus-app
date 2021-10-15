@@ -6,6 +6,7 @@ import CourseList from "../views/CourseList.vue"
 import WorkList from "../views/WorkList.vue"
 import BookList from "../views/BookList.vue"
 import Videos from "../views/Videos.vue"
+import VideoWatcher from "../views/VideoWatcher.vue"
 
 const routes = [
   {
@@ -42,6 +43,11 @@ const routes = [
     path: '/videos',
     name: 'Videos',
     component: Videos
+  },
+  {
+    path: '/videos/:id',
+    name: 'VideoWatcher',
+    component: VideoWatcher
   }
 ]
 
