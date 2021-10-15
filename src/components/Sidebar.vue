@@ -3,17 +3,17 @@
         <div class="sidebar_inner" data-simplebar>
             
             <ul class="side-colored">
-                <li class="active"><a href="explore.html">
+                <li class="active"><router-link to="/explore">
                         <ion-icon name="compass" class="bg-gradient-to-br from-purple-300 p-1 rounded-md side-icon text-opacity-80 text-white to-blue-500">
                         </ion-icon>
                         <span> Tableau de bord</span>
-                    </a>
+                    </router-link>
                 </li>
-                <li><a href="courses.html">
+                <li><router-link to="/courses">
                         <ion-icon name="play-circle" class="bg-gradient-to-br from-yellow-300 p-1 rounded-md side-icon text-opacity-80 text-white to-red-500">
                         </ion-icon>
                         <span> Mes cours</span>
-                    </a>
+                    </router-link>
                 </li>
                 <li><a href="categories.html">
                         <ion-icon name="albums"  class="bg-gradient-to-br from-green-300 p-1 rounded-md side-icon text-opacity-80 text-white to-green-500">
