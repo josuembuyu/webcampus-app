@@ -31,7 +31,7 @@
                     <!--  slider courses --> 
                     <div class="sm:my-4 my-3 flex items-end justify-between pt-3">
                         <h2 class="text-2xl font-semibold"> Mes cours  </h2>
-                    <a href="#" class="text-blue-500 sm:block hidden"> Voir plus </a>
+                        <a href="#" class="text-blue-500 sm:block hidden"> Voir plus </a>
                     </div>
 
                     <div class="mt-3">
@@ -169,18 +169,18 @@
                                 class="uk-slider-items uk-child-width-1-5@m uk-child-width-1-3@s uk-child-width-1-2 uk-grid-small uk-grid text-sm font-medium text-center">
                                 <li>
                                     <div class="card">
-                                        <a href="book-description.html">
+                                        <router-link to="/explore">
                                             <img src="images/book/book1.png" alt="" class="w-full h-52 object-cover">
                                             <div class="p-3 truncate">Genie Logiciel II</div>
-                                        </a>
+                                        </router-link>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="card">
-                                        <a href="book-description.html">
+                                        <router-link to="/explore">
                                             <img src="images/book/book2.png" alt="" class="w-full h-52 object-cover">
                                             <div class="p-3 truncate"> Gestion de projet </div>
-                                        </a>
+                                        </router-link>
                                     </div>
                                 </li>
                                 <li>

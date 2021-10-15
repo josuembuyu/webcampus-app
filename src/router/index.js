@@ -4,6 +4,8 @@ import Explore from "../views/Expore.vue"
 import Course from "../views/Course.vue"
 import CourseList from "../views/CourseList.vue"
 import WorkList from "../views/WorkList.vue"
+import BookList from "../views/BookList.vue"
+import Videos from "../views/Videos.vue"
 
 const routes = [
   {
@@ -30,6 +32,16 @@ const routes = [
     path: '/works',
     name: 'WorkList',
     component: WorkList
+  },
+  {
+    path: '/books',
+    name: 'BookList',
+    component: BookList
+  },
+  {
+    path: '/videos',
+    name: 'Videos',
+    component: Videos
   }
 ]
 

@@ -1,5 +1,5 @@
 <template>
-  <div id="wrapper" class="is-verticle">
+   <div id="wrapper" class="is-verticle">
         <top-bar />
 
         <div class="main_content">

@@ -21,17 +21,17 @@
                         <span> Mes travaux </span>
                     </router-link>
                 </li>
-                <li><a href="episodes.html">
+                <li><router-link to="/books">
                         <ion-icon name="film" class="bg-gradient-to-br from-pink-300 p-1 rounded-md side-icon text-opacity-80 text-white to-red-500">
                         </ion-icon>
                         <span> Ressources </span>
-                    </a>
+                    </router-link>
                 </li>
-                <li><a href="books.html">
+                <li><router-link to="/videos">
                         <ion-icon name="book" class="bg-gradient-to-br from-yellow-300 p-1 rounded-md side-icon text-opacity-80 text-white to-red-500">
                         </ion-icon>
                         <span> Vidéos </span>
-                    </a>
+                    </router-link>
                 </li>
                 <li><a href="blogs.html">
                         <ion-icon name="newspaper" class="bg-gradient-to-br from-purple-300 p-1 rounded-md side-icon text-opacity-80 text-white to-blue-500">
