@@ -15,11 +15,11 @@
                         <span> Mes cours</span>
                     </router-link>
                 </li>
-                <li><a href="categories.html">
+                <li><router-link to="/works">
                         <ion-icon name="albums"  class="bg-gradient-to-br from-green-300 p-1 rounded-md side-icon text-opacity-80 text-white to-green-500">
                         </ion-icon>
                         <span> Mes travaux </span>
-                    </a>
+                    </router-link>
                 </li>
                 <li><a href="episodes.html">
                         <ion-icon name="film" class="bg-gradient-to-br from-pink-300 p-1 rounded-md side-icon text-opacity-80 text-white to-red-500">

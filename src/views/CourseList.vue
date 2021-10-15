@@ -120,7 +120,7 @@
                                 <img src="images/courses/img-4.png" alt=""  class="w-full h-full absolute inset-0 object-cover">
                             </router-link>
                             <div class="flex-1 md:space-y-2 space-y-1">
-                                <router-link to="/course/1" class="md:text-xl font-semibold line-clamp-2"> Administration réseaux  </router-link>
+                                <router-link to="/course/1" class="md:text-xl font-semibold line-clamp-2"> Systèmes embarqués  </router-link>
                                 <p class="leading-6 pr-4 line-clamp-2 md:block hidden"> Lorem ipsum dolor sit amet,
                                     consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
                                     magna . </p>
