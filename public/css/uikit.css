@@ -51,12 +51,14 @@
   margin-right: -12px;
   float: right;
   font-family: "Feather-Icons";
-  content: "\e92e";
+  /* content: "\e92e"; */
   color: rgba(0, 0, 0, 0.54);
 }
-.uk-open > .uk-accordion-title::before {
+
+/* .uk-open > .uk-accordion-title::before {
   content: "\e931";
-}
+} */
+
 /* Hover + Focus */
 .uk-accordion-title:hover,
 .uk-accordion-title:focus {

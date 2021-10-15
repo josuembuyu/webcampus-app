@@ -50,7 +50,7 @@
 
                                         <li>
 
-                                            <a href="course-intro.html" class="uk-link-reset">
+                                            <router-link to="/course/1" class="uk-link-reset">
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
@@ -68,12 +68,12 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </a>
+                                            </router-link>
 
                                         </li>
                                         <li>
 
-                                            <a href="course-intro.html" class="uk-link-reset">
+                                            <router-link to="/course/1" class="uk-link-reset">
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
@@ -91,12 +91,12 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </a>
+                                            </router-link>
 
                                         </li>
                                         <li>
 
-                                            <a href="course-intro.html" class="uk-link-reset">
+                                            <router-link to="/course/1" class="uk-link-reset">
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
@@ -114,12 +114,12 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </a>
+                                            </router-link>
 
                                         </li>
                                         <li>
 
-                                            <a href="course-intro.html" class="uk-link-reset">
+                                            <router-link to="/course/1" class="uk-link-reset">
                                                 <div class="card uk-transition-toggle">
                                                     <div class="card-media h-40">
                                                         <div class="card-media-overly"></div>
@@ -137,7 +137,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </a>
+                                            </router-link>
 
                                         </li>
 

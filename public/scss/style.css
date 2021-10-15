@@ -1909,9 +1909,9 @@ select.bs-select-hidden, select.selectpicker {
   color: rgba(0, 0, 0, 0.54);
 }
 
-.uk-open > .uk-accordion-title::before {
+/* .uk-open > .uk-accordion-title::before {
   content: "\e931";
-}
+} */
 
 .dropup, .dropdown {
   position: relative;
@@ -6988,7 +6988,7 @@ header .header_inner .right-side .header_widgets .is-icon {
 header .header_inner .right-side .header_widgets svg {
   width: 25px;
   height: 25px;
-  color: #676666;
+  color: #676666 !important;
 }
 
 header .header_inner .right-side .header_widgets span {
